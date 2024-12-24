@@ -1,0 +1,9 @@
+[submodule "Titanic-EDA"]
+	path = Titanic-EDA
+	url = https://github.com/BhoomikaLohana/Titanic-EDA.git
+[submodule "Intermediate-Colleges-EDA"]
+	path = Intermediate-Colleges-EDA
+	url = https://github.com/BhoomikaLohana/Intermediate-colleges-in-Pakistan-EDA.git
+[submodule "Hotels-Booking"]
+	path = Hotels-Booking
+	url = https://github.com/BhoomikaLohana/Hotels-Booking.git
